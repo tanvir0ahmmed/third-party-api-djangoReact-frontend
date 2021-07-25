@@ -1,0 +1,42 @@
+.sign-in-card {
+  max-width: 40%;
+  margin-left: 25%;
+  margin-top: 10%;
+  background-color: black;
+}
+
+.g-card-icon {
+  width: 10%;
+  margin-left: 1%;
+  margin-right: 2%;
+}
+
+.g-card-text {
+  font-size: 110%;
+  margin-left: 13%;
+}
+
+.google-card,
+.facebook-card,
+.github-card {
+  margin: 5%;
+  -webkit-box-shadow: 2px 1px 2px 2px rgba(0, 0, 0, 0.5);
+          box-shadow: 2px 1px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.google-card {
+  background-color: darkorange;
+}
+
+.facebook-card {
+  background-color: skyblue;
+}
+
+.github-card {
+  background-color: darkgray;
+}
+
+body {
+  background-color: aliceblue;
+}
+/*# sourceMappingURL=App.css.map */
